@@ -1,6 +1,6 @@
 export const RegForm = () => {
   return (
-    <div className="shadow-2xl p-3 w-[20%]">
+    <div className="shadow-2xl p-3 w-[20%] bg-white">
       <img
         className="w-[30%] rounded-md flex m-auto"
         src="/logo.png"
